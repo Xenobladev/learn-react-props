@@ -1,0 +1,19 @@
+.low{
+    color: red;
+}
+
+.medium{
+    color: orange;
+}
+.high{
+    color: green;
+}
+
+.strike{
+    text-decoration: line-through;
+}
+.product{
+    width: 400px;
+    height: 200px;
+    background-color:aliceblue
+}
